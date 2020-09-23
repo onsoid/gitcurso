@@ -1,0 +1,2 @@
+# gitcurso
+primer proyecto git
